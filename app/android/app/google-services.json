@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631034627803",
+    "project_id": "melhores-marcas-e40ef",
+    "storage_bucket": "melhores-marcas-e40ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631034627803:android:46b35804e98923541faefe",
+        "android_client_info": {
+          "package_name": "com.example.marcas_estatico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631034627803-0onm2bug8flegedboths8rv2viqdegkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzCBTjBiNeh52k2JucIHxR9Rsv_-iLxV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631034627803-0onm2bug8flegedboths8rv2viqdegkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
